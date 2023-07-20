@@ -55,5 +55,5 @@ try:
     print("RTL")
 
 except:
-    print("TimeOUT")
     vehicle.mode = VehicleMode("RTL")
+    print("Error RTL")
