@@ -6,7 +6,8 @@ WSL Ubuntu20.04
 
 ## Install Package
 ```
-pip install dronekit-python
+sudo apt-get install python-pip python-dev
+pip install dronekit
 ```
 
 ## Run  
